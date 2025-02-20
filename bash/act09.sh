@@ -8,6 +8,8 @@ clear
 # Opción 2
 datos=`ls ./jordi/`
 
+cd jordi
+
 for i in $datos
 do
 	echo "Comprobando el elemento => $i"
@@ -17,6 +19,7 @@ do
 	fi
 done
 
+cd ..
 
 
 exit 0

@@ -7,7 +7,9 @@ clear
 
 # Opción 2
 datos=`ls ./jordi/`
- 
+
+cd jordi
+
 for i in $datos
 do
 	echo "Comprobando el elemento => $i"
@@ -18,10 +20,10 @@ do
 	then
 		echo "$i es un directorio"
 	else
-		echo "$i no es u nfichero regular ni un directorio."
+		echo "$i no es un fichero regular ni un directorio."
 	fi
 done
 
-
+cd ..
 
 exit 0
