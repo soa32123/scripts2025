@@ -1,0 +1,5 @@
+jaime.txt;23
+jon.txt;42
+cristian.txt;68
+ivan.txt;99
+iker.txt;0
