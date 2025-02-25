@@ -42,7 +42,6 @@ then
 	else
 		echo "Grupo $grp no se ha podido crear correctamente."
 	fi
-elif test $opc -eq 3
 
 else
 	echo "Usted ha escogido una opción incorrecta."
