@@ -1,6 +1,8 @@
 #!/bin/bash
 clear
 
+# NOTA IMPORTANTE => Hay muchas cosas a mejorar. Es la versión 1
+
 datos=`cat datos.csv|tail -n+2`
 
 for i in $datos
