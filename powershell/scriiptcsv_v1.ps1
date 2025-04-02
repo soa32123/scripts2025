@@ -1,5 +1,7 @@
 Clear-Host
 
+# NOTA IMPORTANTE => Hay muchas cosas a mejorar. Es la versión 1
+
 $csvPath = ".\usuarios.csv"
 
 # Verificar si el archivo CSV existe
