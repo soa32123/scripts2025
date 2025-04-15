@@ -1,1 +1,1 @@
-Vídeos comentado de varios scripts bash
+Vídeos comentados brevemente de varios scripts bash
