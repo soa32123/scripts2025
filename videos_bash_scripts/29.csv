@@ -1,0 +1,3 @@
+comando,origen,destino
+cp,/home/alumno/scripts_videos/pruebas/f1.txt,/home/alumno/scripts_videos/pruebas/copia.txt/
+mv,/home/alumno/scripts_videos/pruebas/f2.txt,/home/alumno/scripts_videos/pruebas/copia.txt/
